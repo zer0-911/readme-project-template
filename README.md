@@ -4,12 +4,14 @@
     <img src="./img/header.png" alt="readme-project-template">
 </a>
 
+<!-- You can make badge by read on official documentation at https://shields.io/badges -->
+
 </div>
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/moh-iqbal-fatchurozi/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/license/zer0-911/template_laporan_praktikum_wortel" alt="License"></a>
-<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/commit-activity/t/zer0-911/template_laporan_praktikum_wortel" alt="Last Commits"></a>
-<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/repo-size/zer0-911/template_laporan_praktikum_wortel
+<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/license/zer0-911/readme-project-template" alt="License"></a>
+<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/commit-activity/t/zer0-911/readme-project-template" alt="Last Commits"></a>
+<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/repo-size/zer0-911/readme-project-template
 " alt="Repo Size"></a>
 </p>
 
@@ -18,9 +20,9 @@
 <a href="#tech-stack">Tech Stack</a> &nbsp;&bull;&nbsp;
 <a href="#installation">Installation</a> &nbsp;&bull;&nbsp;
 <a href="#demo">Demo</a> &nbsp;&bull;&nbsp;
-<a href="#issue">Reference</a>&nbsp;&bull;&nbsp;
-<a href="#license">Reference</a>&nbsp;&bull;&nbsp;
-<a href="#author">Reference</a>&nbsp;&bull;&nbsp;
+<a href="#issue">Issue</a>&nbsp;&bull;&nbsp;
+<a href="#license">License</a>&nbsp;&bull;&nbsp;
+<a href="#author">Author</a>
 </p>
 
 ## 📄 Introduction
@@ -40,7 +42,7 @@
 
 ## ⚙️ Installation
 
-1. Clone this repository `git clone https://github.com/zer0-911/template_laporan_praktikum_wortel.git` or click `Clone or Download` button and then click `Download ZIP`
+1. Clone this repository `git clone https://github.com/zer0-911/readme-project-template.git` or click `Clone or Download` button and then click `Download ZIP`
 2. Install dependencies by running
    ```bash
    npm install
@@ -82,7 +84,7 @@ This project is licensed under the **MIT** License - see the [LICENSE](LICENSE) 
 <h3> Moh. Iqbal Fatchurozi </h3>
 <a target="_blank" href="https://www.linkedin.com/in/moh-iqbal-fatchurozi/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a target="_blank" href="https://github.com/zer0-911"><img height="20" src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a target="_blank" href="https://your-portfolio-link.com">
+<a target="_blank" href="https://iqbalfatchurozi.me">
 <img height="20" src="https://img.shields.io/badge/Portfolio-00BC8E?style=for-the-badge&logo=googlecloud&logoColor=white" alt="portofolio"/>
 </a>
 </p>
