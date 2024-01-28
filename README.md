@@ -1,3 +1,5 @@
+<!-- git remote add origin https|ssh:path/to/the/repository.git  -->
+<!-- git pull origin main --rebase -->
 <div align="center">
 <h1> [Project Name] </h1>
 <a href="https://github.com/zero-911/readme-project-template/header.png">
