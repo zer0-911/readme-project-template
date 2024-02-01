@@ -20,8 +20,9 @@
 <p align="center">
 <a href="#-introduction">Introduction</a> &nbsp;&bull;&nbsp;
 <a href="#-tech-stack">Tech Stack</a> &nbsp;&bull;&nbsp;
-<a href="#-installation">Installation</a> &nbsp;&bull;&nbsp;
-<a href="#-demo">Demo</a> &nbsp;&bull;&nbsp;
+<a href="#%EF%B8%8F-installation">Installation</a> &nbsp;&bull;&nbsp;
+<a href="#%EF%B8%8F-demo">Demo</a> &nbsp;&bull;&nbsp;
+<a href="#-reference">Reference</a>&nbsp;&bull;&nbsp;
 <a href="#-issue">Issue</a>&nbsp;&bull;&nbsp;
 <a href="#-license">License</a>&nbsp;&bull;&nbsp;
 <a href="#-author">Author</a>
