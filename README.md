@@ -13,8 +13,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/moh-iqbal-fatchurozi/"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/license/zer0-911/readme-project-template" alt="License"></a>
 <a target="_blank" href=""><img height="20" src="https://img.shields.io/github/commit-activity/t/zer0-911/readme-project-template" alt="Last Commits"></a>
-<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/repo-size/zer0-911/readme-project-template
-" alt="Repo Size"></a>
+<a target="_blank" href=""><img height="20" src="https://img.shields.io/github/repo-size/zer0-911/readme-project-template" alt="Repo Size"></a>
 </p>
 
 <p align="center">
