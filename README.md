@@ -74,7 +74,7 @@
 
 ## 🚩 Issue
 
-If you found a bug or an issue, please report by opening a new issue on [this repository](https://github.com/zer0-911/paper-drone/issues).
+If you found a bug or an issue, please report by opening a new issue on [this repository](https://github.com/zer0-911/readme-project-template/issues).
 
 ## 📝 License
 
